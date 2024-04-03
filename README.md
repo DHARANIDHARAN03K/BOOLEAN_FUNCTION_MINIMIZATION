@@ -35,7 +35,8 @@ Program:
 
  Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: DHARANI DHARAN K RegisterNumber:212223040036
+Developed by: DHARANI DHARAN K
+RegisterNumber:212223040036
 
 module ex02(A,B,C,D,F1);
 
