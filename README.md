@@ -37,7 +37,7 @@ Program:
 
 Developed by: DHARANI DHARAN K
 RegisterNumber:212223040036
-
+```
 module ex02(A,B,C,D,F1);
 
 input A,B,C,D;
@@ -59,6 +59,7 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 
 endmodule
+```
 
 
 RTL realization
